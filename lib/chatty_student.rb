@@ -5,8 +5,15 @@ def hello
   end
 
   def raise_hand
-    raise_hand.times(10)
-
-
+    super
+    super
+    super
+    super
+    super
+    super
+    super
+    super
+    super
+    super
   end
 end
